@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PromptToon</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_projects">Projects</string>
+    <string name="prompt_hint">Jaise: Ek chota robot Mumbai ki barish mein apna lost umbrella dhoondh raha hai...</string>
+    <string name="error_empty_prompt">Pehle apni story likho ya upar se ek starter choose karo!</string>
+    <string name="error_no_ready_scenes">Abhi koi ready scene nahi hai — pehle Generate dabao.</string>
+</resources>

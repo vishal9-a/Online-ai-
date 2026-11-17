@@ -1,0 +1,6 @@
+{
+  "name": "PromptToon",
+  "description": "Turn text stories into multi-scene 2D animated videos with Gemini AI, voiceover, music, and video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
